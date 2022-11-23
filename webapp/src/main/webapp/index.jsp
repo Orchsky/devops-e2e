@@ -13,8 +13,8 @@
       <input type="text" placeholder="Enter last name" name="last name" required>
 
       <br>
-      <label for="DevOps gurus"><b>DevOps gurus rocking</b></label>
-      <input type="text" placeholder="DevSecOps" name="DevSecOps top of the world" required>
+      <label for="AWS/DevOps gurus"><b>AWS/DevOps gurus rocking</b></label>
+      <input type="text" placeholder="AWS/DevSecOps" name="DevSecOps/AWS top of the world" required>
 
       <br>
       <label for="Instagram"><b>Username</b></label>
